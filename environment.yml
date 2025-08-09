@@ -1,0 +1,8 @@
+name: demo-superset
+channels:
+  - conda-forge
+dependencies:
+  - python==3.10
+  - psycopg2-binary
+  - pandas
+  - sqlalchemy
